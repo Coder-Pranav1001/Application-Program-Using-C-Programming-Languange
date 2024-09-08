@@ -2,6 +2,7 @@
 	Description :- create a pointer of same structure inside the structure
 	Author :- Pranav R Sonawane
 */
+
 // if a structure contains a pointer of same type then it is called as a 
 // self referential structure
 
